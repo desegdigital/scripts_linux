@@ -1,5 +1,5 @@
 #!/bin/sh
-#Por Pablo Almeida
+#Por Pablo A. Almeida
 
 # Verifica se o script está sendo executado pelo root. 
 if [ "`id -u`" != "0" ]; then

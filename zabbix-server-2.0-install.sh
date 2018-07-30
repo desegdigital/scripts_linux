@@ -1,10 +1,10 @@
-#!/bin/bash
+#!/bin/bash -x
 #
-#project	 :Zabbix DsegDigital
+#project	     :Zabbix DsegDigital
 #title           :zabbix-2.0-install.sh
 #description     :Este Script instala Zabbix Server
 #date            :25/07/2018
-#version         :1.0    
+#version         :1.1    
 #usage           :bash zabbix-2.0-install.sh
 #notes           :Por Favor leia o arquivo Install
 ### END SCRIPT INFO
